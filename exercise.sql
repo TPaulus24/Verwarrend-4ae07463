@@ -1,7 +1,4 @@
 use sterrenstelsel;
-create table planeten(
-id INT PRIMARY KEY AUTO_INCREMENT
-);
-
+UPDATE planeten set naam='Teenalp' WHERE id = 6 ;
 
 
